@@ -1,10 +1,10 @@
 [
   {
-    title: "Jeans",
-    submenu: [
+    "title": "Jeans",
+    "submenu": [
       {
-        title: "Jeans for Men",
-        submenu: [
+        "title": "Jeans for Men",
+        "submenu": [
           "Malone | skinny",
           "Luke | slim tapered",
           "Rider | slim",
@@ -14,8 +14,8 @@
         ]
       },
       {
-        title: "Jeans for Women",
-        submenu: [
+        "title": "Jeans for Women",
+        "submenu": [
           "Ivy | super skinny",
           "Scarlett | skinny regular",
           "Scarlett | skinny high",
@@ -28,22 +28,23 @@
         ]
       },
       {
-        img:
+        "img":
           "https://www.lee.pl/media/wysiwyg/Denim_wash/Lee_PL_LDL_FO_Large_HD_514x275.jpg"
       }
     ]
   },
   {
-    Men: [
+    "title": "Men",
+    "submenu": [
       {
-        title: "Best Seller",
-        img:
+        "title": "Best Seller",
+        "img":
           "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L706HFAE.jpg",
-        img_title: "DAREN"
+        "img_title": "DAREN"
       },
       {
-        title: "Shop by category",
-        submenu: [
+        "title": "Shop by category",
+        "submenu": [
           "Outlet",
           "Best Sellers",
           "Jeans",
@@ -61,8 +62,8 @@
         ]
       },
       {
-        title: "Shop by fit",
-        submenu: [
+        "title": "Shop by fit",
+        "submenu": [
           "Skinny | Malone",
           "Slim | Luke & Rider",
           "Regular | Daren & Austin",
@@ -70,8 +71,8 @@
         ]
       },
       {
-        title: "Inspirations",
-        submenu: [
+        "title": "Inspirations",
+        "submenu": [
           "Lee X Timberland",
           "Double Denim",
           "Cord Classics",
@@ -83,16 +84,17 @@
     ]
   },
   {
-    Women: [
+    "title": "Women",
+    "submenu": [
       {
-        title: "BEST SELLER",
-        img:
+        "title": "BEST SELLER",
+        "img":
           "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L526FS47.jpg",
-        img_title: "Scarlett"
+        "img_title": "Scarlett"
       },
       {
-        title: "Shop by category",
-        submenu: [
+        "title": "Shop by category",
+        "submenu": [
           "Outlet",
           "Best Sellers",
           "Jeans",
@@ -110,8 +112,8 @@
         ]
       },
       {
-        title: "Shop by fit",
-        submenu: [
+        "title": "Shop by fit",
+        "submenu": [
           "Super Skinny | Ivy",
           "Skinny | Scarlett",
           "Slim | Elly",
@@ -121,8 +123,8 @@
         ]
       },
       {
-        title: "Inspirations",
-        submenu: [
+        "title": "Inspirations",
+        "submenu": [
           "Double Denim",
           "Cord Classics",
           "Sustainable denim jeans",
@@ -135,6 +137,6 @@
       }
     ]
   },
-  { title: "Fit Guide", submenu: ["Men's Fit", "Women's Fit"] },
-  { title: "Gifts", submenu: ["Gifts for Her", "Gifts for Him"] }
+  { "title": "Fit Guide", "submenu": ["Men's Fit", "Women's Fit"] },
+  { "title": "Gifts", "submenu": ["Gifts for Her", "Gifts for Him"] }
 ]

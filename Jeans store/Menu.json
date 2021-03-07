@@ -1,0 +1,131 @@
+[
+  {
+    "Jeans": [
+      {
+        "Jeans for Men": [
+          "Malone | skinny",
+          "Luke | slim tapered",
+          "Rider | slim",
+          "Daren | regular",
+          "Austin | regular tapered",
+          "Brooklyn | straight"
+        ]
+      },
+      {
+        "Jeans for Women": [
+          "Ivy | super skinny",
+          "Scarlett | skinny regular",
+          "Scarlett | skinny high",
+          "Breese | flare",
+          "Elly | slim",
+          "Carol | straight",
+          "Marion | regular",
+          "Mom | relaxed",
+          "Body Optix® | premium jeans"
+        ]
+      },
+      {
+        img:
+          "https://www.lee.pl/media/wysiwyg/Denim_wash/Lee_PL_LDL_FO_Large_HD_514x275.jpg"
+      }
+    ]
+  },
+  {
+    "Men": [
+      {
+        "title": "Best Seller",
+        "img":
+          "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L706HFAE.jpg",
+        "img_title": "DAREN"
+      },
+      {
+        "Shop by category": [
+          "Outlet",
+          "Best Sellers",
+          "Jeans",
+          "Denim Jackets",
+          "Sherpa Jackets",
+          "Jackets",
+          "Sweatshirts & Knits",
+          "Denim Shirts",
+          "Shirts",
+          "Tees",
+          "Trousers, Chinos & Shorts",
+          "Accessories",
+          "Plus Size",
+          "Lee®101 Collection"
+        ]
+      },
+      {
+        "Shop by fit": [
+          "Skinny | Malone",
+          "Slim | Luke & Rider",
+          "Regular | Daren & Austin",
+          "Relaxed | Carpenter"
+        ]
+      },
+      {
+        "Inspirations": [
+          "Lee X Timberland",
+          "Double Denim",
+          "Cord Classics",
+          "Sustainable denim jeans",
+          "90s Logo t-shirt",
+          "Workwear"
+        ]
+      }
+    ]
+  },
+  {
+    "Women": [
+      {
+        "title": "BEST SELLER",
+        "img":
+          "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L526FS47.jpg",
+        "img_title": "Scarlett"
+      },
+      {
+        "Shop by category": [
+          "Outlet",
+          "Best Sellers",
+          "Jeans",
+          "Denim Jackets",
+          "Sherpa Jackets",
+          "Jackets",
+          "Sweaters & Knits",
+          "Denim Shirts",
+          "Shirts",
+          "Tees",
+          "Skirts  Dresses & Overalls",
+          "Trousers ,  Chinos & Shorts",
+          "Accessories",
+          "Body Optix"
+        ]
+      },
+      {
+        "Shop by fit": [
+          "Super Skinny | Ivy",
+          "Skinny | Scarlett",
+          "Slim | Elly",
+          "Straight | Marion",
+          "Relaxed | Mom",
+          "Bootcut | Breese & Kicked Flare"
+        ]
+      },
+      {
+        "Inspirations": [
+          "Double Denim",
+          "Cord Classics",
+          "Sustainable denim jeans",
+          "90s Logo t-shirt",
+          "Workwear",
+          "Fresh Dressed",
+          "Back in Black",
+          "Denim Celebration"
+        ]
+      }
+    ]
+  },
+  { "Fit Guide": ["Men's Fit", "Women's Fit"] },
+  { "Gifts": ["Gifts for Her", "Gifts for Him"] }
+]

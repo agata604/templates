@@ -1,8 +1,10 @@
 [
   {
-    "Jeans": [
+    title: "Jeans",
+    submenu: [
       {
-        "Jeans for Men": [
+        title: "Jeans for Men",
+        submenu: [
           "Malone | skinny",
           "Luke | slim tapered",
           "Rider | slim",
@@ -12,7 +14,8 @@
         ]
       },
       {
-        "Jeans for Women": [
+        title: "Jeans for Women",
+        submenu: [
           "Ivy | super skinny",
           "Scarlett | skinny regular",
           "Scarlett | skinny high",
@@ -25,21 +28,22 @@
         ]
       },
       {
-        "img":
+        img:
           "https://www.lee.pl/media/wysiwyg/Denim_wash/Lee_PL_LDL_FO_Large_HD_514x275.jpg"
       }
     ]
   },
   {
-    "Men": [
+    Men: [
       {
-        "title": "Best Seller",
-        "img":
+        title: "Best Seller",
+        img:
           "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L706HFAE.jpg",
-        "img_title": "DAREN"
+        img_title: "DAREN"
       },
       {
-        "Shop by category": [
+        title: "Shop by category",
+        submenu: [
           "Outlet",
           "Best Sellers",
           "Jeans",
@@ -57,7 +61,8 @@
         ]
       },
       {
-        "Shop by fit": [
+        title: "Shop by fit",
+        submenu: [
           "Skinny | Malone",
           "Slim | Luke & Rider",
           "Regular | Daren & Austin",
@@ -65,7 +70,8 @@
         ]
       },
       {
-        "Inspirations": [
+        title: "Inspirations",
+        submenu: [
           "Lee X Timberland",
           "Double Denim",
           "Cord Classics",
@@ -77,15 +83,16 @@
     ]
   },
   {
-    "Women": [
+    Women: [
       {
-        "title": "BEST SELLER",
-        "img":
+        title: "BEST SELLER",
+        img:
           "https://uk.lee.com/media/catalog/product/cache/0/thumbnail/156x200/0dc2d03fe217f8c83829496872af24a0/import/item/1/L526FS47.jpg",
-        "img_title": "Scarlett"
+        img_title: "Scarlett"
       },
       {
-        "Shop by category": [
+        title: "Shop by category",
+        submenu: [
           "Outlet",
           "Best Sellers",
           "Jeans",
@@ -103,7 +110,8 @@
         ]
       },
       {
-        "Shop by fit": [
+        title: "Shop by fit",
+        submenu: [
           "Super Skinny | Ivy",
           "Skinny | Scarlett",
           "Slim | Elly",
@@ -113,7 +121,8 @@
         ]
       },
       {
-        "Inspirations": [
+        title: "Inspirations",
+        submenu: [
           "Double Denim",
           "Cord Classics",
           "Sustainable denim jeans",
@@ -126,6 +135,6 @@
       }
     ]
   },
-  { "Fit Guide": ["Men's Fit", "Women's Fit"] },
-  { "Gifts": ["Gifts for Her", "Gifts for Him"] }
+  { title: "Fit Guide", submenu: ["Men's Fit", "Women's Fit"] },
+  { title: "Gifts", submenu: ["Gifts for Her", "Gifts for Him"] }
 ]

@@ -5,26 +5,71 @@
       {
         "title": "Jeans for Men",
         "submenu": [
-          "Malone | skinny",
-          "Luke | slim tapered",
-          "Rider | slim",
-          "Daren | regular",
-          "Austin | regular tapered",
-          "Brooklyn | straight"
+          {
+            "title": "Malone | skinny",
+            "link": "#"
+          },
+          {
+            "title": "Luke | slim tapered",
+            "link": "#"
+          },
+          {
+            "title": "Rider | slim",
+            "link": "#"
+          },
+          {
+            "title": "Daren | regular",
+            "link": "#"
+          },
+          {
+            "title": "Austin | regular tapered",
+            "link": "#"
+          },
+          {
+            "title": "Brooklyn | straight",
+            "link": "#"
+          }
         ]
       },
       {
         "title": "Jeans for Women",
         "submenu": [
-          "Ivy | super skinny",
-          "Scarlett | skinny regular",
-          "Scarlett | skinny high",
-          "Breese | flare",
-          "Elly | slim",
-          "Carol | straight",
-          "Marion | regular",
-          "Mom | relaxed",
-          "Body Optix® | premium jeans"
+          {
+            "title": "Ivy | super skinny",
+            "link": "#"
+          },
+          {
+            "title": "Scarlett | skinny regular",
+            "link": "#"
+          },
+          {
+            "title": "Scarlett | skinny high",
+            "link": "#"
+          },
+          {
+            "title": "Breese | flare",
+            "link": "#"
+          },
+          {
+            "title": "Elly | slim",
+            "link": "#"
+          },
+          {
+            "title": "Carol | straight",
+            "link": "#"
+          },
+          {
+            "title": "Marion | regular",
+            "link": "#"
+          },
+          {
+            "title": "Mom | relaxed",
+            "link": "#"
+          },
+          {
+            "title": "Body Optix® | premium jeans",
+            "link": "#"
+          }
         ]
       },
       {
@@ -39,46 +84,118 @@
       {
         "title": "Best Seller",
         "img":
-          "https://github.com/agata604/images/blob/master/lee/RIGID_SUB_320x193_11.jpg?raw=true",
+        "https://github.com/agata604/images/blob/master/lee/RIGID_SUB_320x193_11.jpg?raw=true",
         "img_title": "DAREN"
       },
       {
         "title": "Shop by category",
         "submenu": [
-          "Outlet",
-          "Best Sellers",
-          "Jeans",
-          "Denim Jackets",
-          "Sherpa Jackets",
-          "Jackets",
-          "Sweatshirts & Knits",
-          "Denim Shirts",
-          "Shirts",
-          "Tees",
-          "Trousers, Chinos & Shorts",
-          "Accessories",
-          "Plus Size",
-          "Lee®101 Collection"
+          {
+            "title": "Outlet",
+            "link": "#"
+          },
+          {
+            "title": "Best Sellers",
+            "link": "#"
+          },
+          {
+            "title": "Jeans",
+            "link": "#"
+          },
+          {
+            "title": "Denim Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Sherpa Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Sweatshirts & Knits",
+            "link": "#"
+          },
+          {
+            "title": "Denim Shirts",
+            "link": "#"
+          },
+          {
+            "title": "Shirts",
+            "link": "#"
+          },
+          {
+            "title": "Tees",
+            "link": "#"
+          },
+          {
+            "title": "Trousers, Chinos & Shorts",
+            "link": "#"
+          },
+          {
+            "title": "Accessories",
+            "link": "#"
+          },
+          {
+            "title": "Plus Size",
+            "link": "#"
+          },
+          {
+            "title": "Lee®101 Collection",
+            "link": "#"
+          }
         ]
       },
       {
         "title": "Shop by fit",
         "submenu": [
-          "Skinny | Malone",
-          "Slim | Luke & Rider",
-          "Regular | Daren & Austin",
-          "Relaxed | Carpenter"
+          {
+            "title": "Skinny | Malone",
+            "link": "#"
+          },
+          {
+            "title": "Slim | Luke & Rider",
+            "link": "#"
+          },
+          {
+            "title": "Regular | Daren & Austin",
+            "link": "#"
+          },
+          {
+            "title": "Relaxed | Carpenter",
+            "link": "#"
+          }
         ]
       },
       {
         "title": "Inspirations",
         "submenu": [
-          "Lee X Timberland",
-          "Double Denim",
-          "Cord Classics",
-          "Sustainable denim jeans",
-          "90s Logo t-shirt",
-          "Workwear"
+          {
+            "title": "Lee X Timberland",
+            "link": "#"
+          },
+          {
+            "title": "Double Denim",
+            "link": "#"
+          },
+          {
+            "title": "Cord Classics",
+            "link": "#"
+          },
+          {
+            "title": "Sustainable denim jeans",
+            "link": "#"
+          },
+          {
+            "title": "90s Logo t-shirt",
+            "link": "#"
+          },
+          {
+            "title": "Workwear",
+            "link": "#"
+          }
         ]
       }
     ]
@@ -89,50 +206,134 @@
       {
         "title": "BEST SELLER",
         "img":
-          "https://github.com/agata604/images/blob/master/lee/RIGID_SUB_320x193_5.jpg?raw=true",
+        "https://github.com/agata604/images/blob/master/lee/RIGID_SUB_320x193_5.jpg?raw=true",
         "img_title": "Scarlett"
       },
       {
         "title": "Shop by category",
         "submenu": [
-          "Outlet",
-          "Best Sellers",
-          "Jeans",
-          "Denim Jackets",
-          "Sherpa Jackets",
-          "Jackets",
-          "Sweaters & Knits",
-          "Denim Shirts",
-          "Shirts",
-          "Tees",
-          "Skirts  Dresses & Overalls",
-          "Trousers ,  Chinos & Shorts",
-          "Accessories",
-          "Body Optix"
+          {
+            "title": "Outlet",
+            "link": "#"
+          },
+          {
+            "title": "Best Sellers",
+            "link": "#"
+          },
+          {
+            "title": "Jeans",
+            "link": "#"
+          },
+          {
+            "title": "Denim Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Sherpa Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Jackets",
+            "link": "#"
+          },
+          {
+            "title": "Sweaters & Knits",
+            "link": "#"
+          },
+          {
+            "title": "Denim Shirts",
+            "link": "#"
+          },
+          {
+            "title": "Shirts",
+            "link": "#"
+          },
+          {
+            "title": "Tees",
+            "link": "#"
+          },
+          {
+            "title": "Skirts Dresses & Overalls",
+            "link": "#"
+          },
+          {
+            "title": "Trousers , Chinos & Shorts",
+            "link": "#"
+          },
+          {
+            "title": "Accessories",
+            "link": "#"
+          },
+          {
+            "title": "Body Optix",
+            "link": "#"
+          }
         ]
       },
       {
         "title": "Shop by fit",
         "submenu": [
-          "Super Skinny | Ivy",
-          "Skinny | Scarlett",
-          "Slim | Elly",
-          "Straight | Marion",
-          "Relaxed | Mom",
-          "Bootcut | Breese & Kicked Flare"
+          {
+            "title": "Super Skinny | Ivy",
+            "link": "#"
+          },
+          {
+            "title": "Skinny | Scarlett",
+            "link": "#"
+          },
+          {
+            "title": "Slim | Elly",
+            "link": "#"
+          },
+          {
+            "title": "Straight | Marion",
+            "link": "#"
+          },
+          {
+            "title": "Relaxed | Mom",
+            "link": "#"
+          },
+          {
+            "title": "Bootcut | Breese & Kicked Flare",
+            "link": "#"
+          }
         ]
       },
       {
         "title": "Inspirations",
         "submenu": [
-          "Double Denim",
-          "Cord Classics",
-          "Sustainable denim jeans",
-          "90s Logo t-shirt",
-          "Workwear",
-          "Fresh Dressed",
-          "Back in Black",
-          "Denim Celebration"
+          {
+            "title": "Double Denim",
+            "link": "#"
+          },
+          {
+            "title": "Cord Classics",
+            "link": "#"
+          },
+          {
+            "title": "Sustainable denim jeans",
+            "link": "#"
+          },
+          {
+            "title": "90s Logo t-shirt",
+            "link": "#"
+          },
+          {
+            "title": "Workwear",
+            "link": "#"
+          },
+          {
+            "title": "Fresh Dressed",
+            "link": "#"
+          },
+          {
+            "title": "Back in Black",
+            "link": "#"
+          },
+          {
+            "title": "Denim Celebration",
+            "link": "#"
+          }
         ]
       }
     ]

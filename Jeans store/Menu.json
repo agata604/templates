@@ -72,12 +72,9 @@
           }
         ]
       },
-      {
-        "img":
-        "https://github.com/agata604/images/blob/master/lee/INDIGOOD_SUB_1080x648_2.jpg?raw=true"
-      }
     ],
-    "link": "#"
+    "link": "#",
+    "img": "https://github.com/agata604/images/blob/master/lee/INDIGOOD_SUB_1080x648_2.jpg?raw=true"
   },
   {
     "title": "Men",

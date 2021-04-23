@@ -4,35 +4,5 @@
       "name": "Daren",
       "price": "119",
       "sale_price": "73.30"
-    },
-    {
-      "image": "https://github.com/agata604/images/blob/master/lee/L32YEB01.jpg?raw=true",
-      "name": "Scarlett Super High",
-      "price": "179.00",
-      "sale_price": "100.30"
-    },
-    {
-      "image": "https://github.com/agata604/images/blob/master/lee/L54VRDJK.jpg?raw=true",
-      "name": "Sherpa Rider Jacket",
-      "price": "169.00",
-      "sale_price": "79.30"
-    },
-    {
-      "image": "https://github.com/agata604/images/blob/master/lee/L706IZHG.jpg?raw=true",
-      "name": "Luke",
-      "price": "99.00",
-      "sale_price": "76.30"
-    },
-    {
-      "image": "https://github.com/agata604/images/blob/master/lee/L719WJ01.jpg?raw=true",
-      "name": "Breese",
-      "price": "99.00",
-      "sale_price": "66.30"
-    },
-    {
-      "image": "https://github.com/agata604/images/blob/master/lee/L32YEB01.jpg?raw=true",
-      "name": "Scarlett Super High",
-      "price": "179.00",
-      "sale_price": "100.30"
     }
-  ]
+]

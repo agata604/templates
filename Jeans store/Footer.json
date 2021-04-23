@@ -10,47 +10,5 @@
         "FAQ",
         "Careers"
       ]
-    },
-    {
-      "title": "Men's top searches",
-      "submenu": [
-        "Mens jackets",
-        "Mens jeans",
-        "Mens hoodies",
-        "Mens denim jackets",
-        "Mens t-shirts",
-        "Mens skinny jeans",
-        "Mens chinos",
-        "Mens denim shirts",
-        "Mens checkered shirts",
-        "Mens tapered jeans",
-        "Sale"
-      ],
-    },
-    {
-      "title": "Women's top searches",
-      "submenu": [
-        "Denim dresses",
-        "Mom jeans",
-        "High waisted jeans",
-        "Womens jeans",
-        "Boyfriend jeans",
-        "Womens Denim Jackets",
-        "Womens Denim Shirts",
-        "Womens skirts",
-        "Womens skinny jeans",
-        "Womens t-shirts",
-        "Sale"
-      ]
-    },
-    {
-      "title": "Need help with size, fit and denim wash?",
-      "submenu": [
-        "Men's fit guide",
-        "Women's fit guide",
-        "Men's size guide",
-        "Women's size guide",
-        "Find your denim wash jeans"
-      ]
     }
   ]

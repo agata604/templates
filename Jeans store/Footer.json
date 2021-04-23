@@ -1,7 +1,7 @@
 [
     {
       "title": "How can we help?",
-      "list": [
+      "submenu": [
         "Contact Us",
         "Track your order",
         "Returns",
@@ -13,7 +13,7 @@
     },
     {
       "title": "Men's top searches",
-      "list": [
+      "submenu": [
         "Mens jackets",
         "Mens jeans",
         "Mens hoodies",
@@ -29,7 +29,7 @@
     },
     {
       "title": "Women's top searches",
-      "list": [
+      "submenu": [
         "Denim dresses",
         "Mom jeans",
         "High waisted jeans",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Need help with size, fit and denim wash?",
-      "list": [
+      "submenu": [
         "Men's fit guide",
         "Women's fit guide",
         "Men's size guide",

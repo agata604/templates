@@ -12,6 +12,16 @@
       ]
     },
     {
+      "title": "Need help with size, fit and denim wash?",
+      "submenu": [
+        "Men's fit guide",
+        "Women's fit guide",
+        "Men's size guide",
+        "Women's size guide",
+        "Find your denim wash jeans"
+      ]
+    },
+    {
       "title": "Men's top searches",
       "submenu": [
         "Mens jackets",
@@ -41,16 +51,6 @@
         "Womens skinny jeans",
         "Womens t-shirts",
         "Sale"
-      ]
-    },
-    {
-      "title": "Need help with size, fit and denim wash?",
-      "submenu": [
-        "Men's fit guide",
-        "Women's fit guide",
-        "Men's size guide",
-        "Women's size guide",
-        "Find your denim wash jeans"
       ]
     }
   ]

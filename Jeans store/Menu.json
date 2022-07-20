@@ -342,6 +342,7 @@
   },
   {
     "title": "Fit Guide",
+    "hero": true,
     "subtitle": "There's a paire to fit everyone",
     "submenu": [
       { "title": "Men's Fit", "link": "#" },
@@ -352,6 +353,7 @@
   },
   {
     "title": "Gifts",
+    "hero": true,
     "subtitle": "Get the set for Christmas!",
     "submenu": [
       { "title": "Gifts for Her", "link": "#" },

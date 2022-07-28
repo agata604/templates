@@ -344,22 +344,22 @@
     "title": "Fit Guide",
     "hero": true,
     "subtitle": "There's a paire to fit everyone",
-    "submenu": [
-      { "title": "Men's Fit", "link": "#" },
-      { "title": "Women's Fit", "link": "#" },
-      { "img": "https://raw.githubusercontent.com/agata604/images/master/lee/Lee_Fit_Guide_Front_Banner_1000x538_514x275.jpg" }
+    "action_buttons" : [
+      { "name": "Men's Fit", "link": "#" },
+      { "name": "Women's Fit", "link": "#" }
     ],
+    "img": "https://raw.githubusercontent.com/agata604/images/master/lee/Lee_Fit_Guide_Front_Banner_1000x538_514x275.jpg",
     "link": "#"
   },
   {
     "title": "Gifts",
     "hero": true,
     "subtitle": "Get the set for Christmas!",
-    "submenu": [
-      { "title": "Gifts for Her", "link": "#" },
-      { "title": "Gifts for Him", "link": "#" },
-      { "img": "https://github.com/agata604/images/blob/master/lee/Lee_514x275-GiftGuide.jpg?raw=true" }
+    "action_buttons" : [
+      { "name": "Gifts for Her", "link": "#" },
+      { "name": "Gifts for Him", "link": "#" }
     ],
+    "img": "https://github.com/agata604/images/blob/master/lee/Lee_514x275-GiftGuide.jpg?raw=true" },
     "link": "#"
   }
 ]

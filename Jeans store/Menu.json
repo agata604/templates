@@ -343,7 +343,7 @@
   {
     "title": "Fit Guide",
     "hero": true,
-    "subtitle": "There's a paire to fit everyone",
+    "hero_heading": "There's a paire to fit everyone",
     "action_buttons" : [
       { "name": "Men's Fit", "link": "#" },
       { "name": "Women's Fit", "link": "#" }
@@ -354,7 +354,7 @@
   {
     "title": "Gifts",
     "hero": true,
-    "subtitle": "Get the set for Christmas!",
+    "hero_heading": "Get the set for Christmas!",
     "action_buttons" : [
       { "name": "Gifts for Her", "link": "#" },
       { "name": "Gifts for Him", "link": "#" }
